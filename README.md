@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yprateek136
+- 👋 Hi, I’m 3rd year student 
 - 👀 I’m interested in open source contribute
 - 🌱 I’m currently learning Data structure & algorithm
 - 💞️ I’m looking to contibute on Blender
