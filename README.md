@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 3rd year student 
 - 👀 I’m interested in open source contribution
 - 🌱 I’m currently learning Data structure & algorithm
-- 💞️ I’m looking to contibute on Blender
+- 💞️ I’m looking to contribute on Blender
 - 📫
 
 <!---
